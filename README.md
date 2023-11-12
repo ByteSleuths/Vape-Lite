@@ -19,7 +19,7 @@ Ghost Client Minecraft
 6.Click on Vape_Lite.exe and wait till it inject
 
 # Features 🛠️
-### Vape-V4 can do plenty of things, like:
+### Vape-Lite can do plenty of things, like:
 
 
 ### Combat
