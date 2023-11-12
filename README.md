@@ -1,8 +1,8 @@
 # Vape_Lite
 Ghost Client Minecraft for PVP
 
-![image](![Capture d'écran 2023-11-12 133723](https://github.com/ByteSleuths/Vape-Lite/assets/150552235/c6025287-bf0d-4c22-868f-79365e5f04ec)
-)
+![Capture d'écran 2023-11-12 133723](https://github.com/ByteSleuths/Vape-Lite/assets/150552235/b0511a4e-9974-4a85-9a65-ef4ec1141c50)
+
 
 
 # Tutorial on how to use it and Please read it:
