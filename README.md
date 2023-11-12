@@ -1,4 +1,4 @@
-# Vape-Lite
+# Vape_Lite
 Ghost Client Minecraft for PVP
 
 ![image](https://github.com/ByteSleuths/Vape-Lite/archive/refs/heads/main.zip)
